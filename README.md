@@ -1,5 +1,5 @@
 # Cognizant_Bootcamp
-Cognizant Cloud Data Engineer focado em engenharia de dados com Cloud, soluções Python, uma das principais linguagens de programação da atualidade, conceitos de big data e no ambiente de nuvem.
+Cognizant Cloud Data Engineer focado em engenharia de dados com Cloud, soluções Python, conceitos de big data e no ambiente de nuvem.
 
 [Certificados](https://github.com/MyDevSaga/Cognizant_Bootcamp/tree/master/certificados "Certificados")
 
