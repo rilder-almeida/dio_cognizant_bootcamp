@@ -10,8 +10,8 @@ Cognizant Cloud Data Engineer focado em engenharia de dados com Cloud, soluçõe
 - [x] Linux: A introdução ao sistema operacional
 - [x] Shell script - Manipulando Arquivos
 - [x] Fundamentos de Arquitetura de Sistemas
-- [ ] Arquitetura de Sistemas Avançado
-- [ ] Introdução a orquestração de contêineres com Docker
+- [x] Arquitetura de Sistemas Avançado
+- [x] Introdução a orquestração de contêineres com Docker
 - [ ] Conceitos e melhores práticas com bancos de dados PostgreSQL
 - [ ] Introdução ao MongoDB e Bancos de Dados NoSQL
 - [ ] Explorando o poder do NoSQL com Cassandra e HBase
