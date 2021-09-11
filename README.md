@@ -14,9 +14,9 @@ Cognizant Cloud Data Engineer focado em engenharia de dados com Cloud, soluçõe
 - [x] Introdução a orquestração de contêineres com Docker
 - [x] Conceitos e melhores práticas com bancos de dados PostgreSQL
 - [x] Introdução ao MongoDB e Bancos de Dados NoSQL
-- [ ] Explorando o poder do NoSQL com Cassandra e HBase
-- [ ] Introdução à programação com Python
-- [ ] Fundamentos de ETL com Python
+- [x] Explorando o poder do NoSQL com Cassandra e HBase
+- [x] Introdução à programação com Python
+- [x] Fundamentos de ETL com Python
 - [ ] Análise de dados com Python e Pandas (Projeto)
 - [ ] Resolvendo algoritmos com Python (Desafios)
 - [ ] Monitoramento de clusters Hadoop de alto nível com HDFS e YARN
