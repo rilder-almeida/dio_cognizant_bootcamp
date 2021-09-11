@@ -1,8 +1,6 @@
 # Cognizant Cloud Data Engineer
 Cognizant Cloud Data Engineer focado em engenharia de dados com Cloud, soluções Python, conceitos de big data e no ambiente de nuvem.
 
-[Lista de Certificados](https://github.com/MyDevSaga/Cognizant_Bootcamp/tree/master/certificados "Certificados")
-
 ## Bootcamp Roadmap
 - [x] Boas-vindas ao Bootcamp Cognizant Cloud Data Engineer
 - [x] Bem-vindo à DIO
